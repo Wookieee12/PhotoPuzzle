@@ -1,2 +1,2 @@
-# PhotoPuzzor
+# PhotoPuzzle
 iOS puzzle game
